@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+      <head>
+
+      </head>
+
+      <body>
+            <table border="1">
+                  <tr>
+                      <td>Row 1 Col 1</td>
+                      <td>Row 1 Col 2</td>
+                      <td>ROW 1 Col 3</td>
+                   </tr>
+                   <tr>
+                       <td>Row 2 Column 1</td>
+                       <td>Row 2 Column 2</td>
+                       <td>Row 2 Column 3</td>
+                    </tr>
+                    <tr>
+             </table>
+       </body>
+</html>
+ <table border="1">
+                  <tr>
+                      <th>Year</th>
+                      <th>Title of the movie</th>
+                      <th>The total box office earning </th> 
+
+<!DOCTYPE html>
+<html>
+      <head>
+          
+      </head>
+
+      <body>
+   <ol>
+                <li>Gone with the wind</li>
+                <li>James bond</li>
+                <li>Endgame</li>
+                <li>Spiderman</li>
+                <li>X-men</li>
+                <li>Batman</li>
+                <li>Superman</li>
+                <li>Star wars</li>
+                <li>Harry potter</li>
+                <li>Jurassic park</li>
+                <li>Pirates of the caribbean</li>
+                <li>Avatar</li>
+                <li>frozen</li>
+                <li>The loin king</li>
+                <li>Toy story</li>
+                <li>incredibles2</li>
+                <li>Pixar</li>
+                <li>Despicable man</li>
+                <li>Shrek</li>
+                <li>Ice age</li>
+                <li>finding dory</li>
+                <li>Zootopia</li>
+                <li>Inflation</li>
+                <li>Adventure</li>
+                                   </tr>
+             </table>
+        </body>
+</html
